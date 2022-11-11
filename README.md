@@ -12,6 +12,9 @@
 ![DevTools](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 
+### Testing Documentation
+- [Mind-maps and artifacts](https://github.com/artichokeee/checklist)
+
 ### Socials
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/pandasayok)
 [![Linkebin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://linkedin.com/in/dmitriy-tsybenko-190287256/)
