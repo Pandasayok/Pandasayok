@@ -13,7 +13,7 @@
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 
 ### Testing Documentation
-- [Mind-maps and artifacts](https://github.com/artichokeee/checklist)
+- [Mind-maps and artifacts](https://github.com/Pandasayok/portfolio)
 
 ### Socials
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/pandasayok)
