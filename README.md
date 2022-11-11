@@ -3,7 +3,7 @@
 ## I'm a beginner QA engineer
 
 ### Skills and Tools
-![Testtheory](https://img.shields.io/badge/-TestTheory-090909?style=for-the-badge&logo=Test theory)
+![Testtheory](https://img.shields.io/badge/-TestTheory-090909?style=for-the-badge&logo=Testtheory)
 ![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Github](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
