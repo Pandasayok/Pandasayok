@@ -1,6 +1,5 @@
-[![Header](https://github.com/Pandasayok/Pandasayok/blob/main/assets/qa-hero.jpg)](https://rostov.hh.ru/applicant/resumes/view?resume=636c7740ff0b61916b0039ed1f786b63707978)
-
 ## 👋 I'm a QA engineer
+[![Header](https://github.com/Pandasayok/Pandasayok/blob/main/assets/qa-hero.jpg)](https://rostov.hh.ru/applicant/resumes/view?resume=636c7740ff0b61916b0039ed1f786b63707978)
 
 ## 🤝 Обо мне
 Ручной тестировщик (QA Engineer) с опытом работы 2+ лет.  
