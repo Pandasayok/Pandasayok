@@ -1,6 +1,6 @@
 [![Header](https://github.com/Pandasayok/Pandasayok/blob/main/assets/qa-hero.jpg)](https://rostov.hh.ru/applicant/resumes/view?resume=636c7740ff0b61916b0039ed1f786b63707978)
 
-## I'm a beginner QA engineer
+## I'm a QA engineer
 
 ### Skills and Tools
 ![Testtheory](https://img.shields.io/badge/-TestTheory-090909?style=for-the-badge&logo=Testtheory)
