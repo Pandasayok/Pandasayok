@@ -38,7 +38,7 @@
 - 📊 Участие в нагрузочном тестировании (JMeter + InfluxDB + Grafana.)
 - 💬 Активная коммуникация в Agile-команде (Scrum)
 
-### 🛠 Skills and Tools
+### 👨‍💻 Skills and Tools
 ![Testtheory](https://img.shields.io/badge/-TestTheory-090909?style=for-the-badge&logo=Testtheory)
 ![TestDesign](https://img.shields.io/badge/Test--Design-090909?style=for-the-badge&logo=abstract&logoColor=white)
 ![Checklists](https://img.shields.io/badge/Checklists-090909?style=for-the-badge&logo=todoist&logoColor=white)
